@@ -1,0 +1,70 @@
+.card-detail{
+    padding-bottom: 45px;
+    background-image: url("images/bg-card-front.png");
+   color: white;
+   background-repeat: no-repeat;
+   font-size: 20px;
+}
+
+body{
+    font-size: 18px;
+}
+
+.logo{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.card-number{
+    position: relative;
+    right: -100px ;
+    top: 50px; 
+    width: 500px;
+}
+    
+    
+        
+.card-name{
+    position: relative;
+    right: -20px;
+    top: 25px;
+    text-align: center;
+  border: 50px;
+  border-radius: 15px;
+}
+.date{
+    position:relative;
+    left: 380px;
+    bottom: 15px;
+    border: 50px;
+    border-radius: 15px;
+}
+
+.cvr{
+    position: relative;
+    bottom: 155px;
+    left: 350px;
+}
+.card-back{
+    padding-left: 100px;
+}
+
+.form{
+    max-height: 330px;
+    max-width: 330px;
+    position: absolute;
+    left: 650px;
+    bottom: 150px;
+    width: 200px;
+}
+
+.submit{
+    background-color: #0d0463;
+  color: white;
+  padding: 16px 32px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 15px;
+  text-align: center;
+  border: 50px;
+}
